@@ -1,0 +1,25 @@
+{
+  "name": "js-zone",
+  "version": "1.0.0",
+  "description": "js basic programs helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhjsdev/js-buddy.git"
+  },
+  "keywords": [
+    "JS",
+    "Node",
+    "NPM",
+    "Javascrpt"
+  ],
+  "author": "Saurabh Mankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhjsdev/js-buddy/issues"
+  },
+  "homepage": "https://github.com/saurabhjsdev/js-buddy#readme"
+}

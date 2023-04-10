@@ -1,0 +1,7 @@
+This npm contain some js program for reusality ans save dev time where needed.
+
+Below are the function currently present:
+1)factorial
+2)isPalindrome
+3)areAnagram
+4)reverseNumber
